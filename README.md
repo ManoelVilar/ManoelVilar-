@@ -8,7 +8,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 
 <p align="left">
    
-<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+<a href="https://github.com/ManoelVilar?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
