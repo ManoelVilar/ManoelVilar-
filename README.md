@@ -7,16 +7,8 @@ Me chamo Manoel Vilar, tenho 29 anos e sou de Campina Grande - PB. Atualmente, e
 Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando evoluir constantemente por meio de estudos, prática e desenvolvimento de projetos.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
    
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
